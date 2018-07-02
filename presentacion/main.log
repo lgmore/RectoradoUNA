@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.5.4)  2 JUL 2018 05:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.5.4)  2 JUL 2018 05:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1699,14 +1699,7 @@ File: english.lbx 2017/12/19 v3.10 biblatex localization (PK/JW/AB)
 )
 \@quotelevel=\count472
 \@quotereset=\count473
-(/home/lg_more/github/RectoradoUNA/presentacion/main.aux
-
-LaTeX Warning: Label `eq:velocidad1' multiply defined.
-
-
-LaTeX Warning: Label `fig:casa1' multiply defined.
-
-)
+(/home/lg_more/github/RectoradoUNA/presentacion/main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
@@ -1889,7 +1882,7 @@ LaTeX Font Info:    Try loading font information for T1+lmvtt on input line 71.
 (/usr/share/texmf/tex/latex/lm/t1lmvtt.fd
 File: t1lmvtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-<graphics/halfLogo.pdf, id=81, 321.2pt x 321.2pt>
+<graphics/halfLogo.pdf, id=65, 321.2pt x 321.2pt>
 File: graphics/halfLogo.pdf Graphic file (type pdf)
 <use graphics/halfLogo.pdf>
 Package pdftex.def Info: graphics/halfLogo.pdf  used on input line 71.
@@ -1899,7 +1892,7 @@ Package pdftex.def Info: graphics/halfLogo.pdf  used on input line 71.
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/lg_more/github/Recto
 radoUNA/presentacion/graphics/halfLogo.pdf>] (/home/lg_more/github/RectoradoUNA
 /presentacion/main.toc)
-<graphics/polloPallido.pdf, id=105, 240.65909pt x 359.9046pt>
+<graphics/polloPallido.pdf, id=85, 240.65909pt x 359.9046pt>
 File: graphics/polloPallido.pdf Graphic file (type pdf)
 <use graphics/polloPallido.pdf>
 Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 75.
@@ -1989,719 +1982,55 @@ Overfull \hbox (56.90549pt too wide) in paragraph at lines 116--116
 
 [7
 
-]
-<graphics/lena.jpg, id=168, 513.92pt x 513.92pt>
-File: graphics/lena.jpg Graphic file (type jpg)
-<use graphics/lena.jpg>
-Package pdftex.def Info: graphics/lena.jpg  used on input line 153.
-(pdftex.def)             Requested size: 513.91873pt x 513.91873pt.
-
-Overfull \hbox (17.46507pt too wide) in paragraph at lines 153--153
-[][]  
- []
-
+] (/home/lg_more/github/RectoradoUNA/presentacion/main.toc)
 File: graphics/polloPallido.pdf Graphic file (type pdf)
 <use graphics/polloPallido.pdf>
-Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 153.
+Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 118.
 (pdftex.def)             Requested size: 24.18501pt x 36.16829pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 153--153
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 118--118
 [][]  
  []
 
 [8
 
- </home/lg_more/github/RectoradoUNA/presentacion/graphics/lena.jpg>]
-<graphics/histogramaejemplo.jpg, id=176, 623.32875pt x 385.44pt>
-File: graphics/histogramaejemplo.jpg Graphic file (type jpg)
-<use graphics/histogramaejemplo.jpg>
-Package pdftex.def Info: graphics/histogramaejemplo.jpg  used on input line 176
-.
-(pdftex.def)             Requested size: 623.32722pt x 385.43906pt.
-
-Overfull \hbox (13.8239pt too wide) in paragraph at lines 176--176
- [] 
- []
-
+]
 File: graphics/polloPallido.pdf Graphic file (type pdf)
 <use graphics/polloPallido.pdf>
-Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 176.
+Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 129.
 (pdftex.def)             Requested size: 24.18501pt x 36.16829pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 176--176
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 129--129
 [][]  
  []
 
 [9
 
- </home/lg_more/github/RectoradoUNA/presentacion/graphics/histogramaejemplo.jpg
->]
-File: graphics/lena.jpg Graphic file (type jpg)
-<use graphics/lena.jpg>
-Package pdftex.def Info: graphics/lena.jpg  used on input line 200.
-(pdftex.def)             Requested size: 513.91873pt x 513.91873pt.
-
-Overfull \hbox (17.46507pt too wide) in paragraph at lines 200--200
-[][]  
- []
-
+] (/home/lg_more/github/RectoradoUNA/presentacion/main.toc)
 File: graphics/polloPallido.pdf Graphic file (type pdf)
 <use graphics/polloPallido.pdf>
-Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 200.
+Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 132.
 (pdftex.def)             Requested size: 24.18501pt x 36.16829pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 200--200
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 132--132
 [][]  
  []
 
 [10
 
-] (/home/lg_more/github/RectoradoUNA/presentacion/main.toc)
+]
 File: graphics/polloPallido.pdf Graphic file (type pdf)
 <use graphics/polloPallido.pdf>
-Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 226.
+Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 143.
 (pdftex.def)             Requested size: 24.18501pt x 36.16829pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 226--226
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 143--143
 [][]  
  []
 
 [11
 
 ]
-File: graphics/lena.jpg Graphic file (type jpg)
-<use graphics/lena.jpg>
-Package pdftex.def Info: graphics/lena.jpg  used on input line 271.
-(pdftex.def)             Requested size: 513.91873pt x 513.91873pt.
-
-Overfull \hbox (17.46507pt too wide) in paragraph at lines 271--271
-[][]  
- []
-
-File: graphics/polloPallido.pdf Graphic file (type pdf)
-<use graphics/polloPallido.pdf>
-Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 271.
-(pdftex.def)             Requested size: 24.18501pt x 36.16829pt.
-
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 271--271
-[][]  
- []
-
-[12
-
-]
-<graphics/RGB_Cube_Show_lowgamma_cutout_b.png, id=209, 1606.0pt x 1204.5pt>
-File: graphics/RGB_Cube_Show_lowgamma_cutout_b.png Graphic file (type png)
-<use graphics/RGB_Cube_Show_lowgamma_cutout_b.png>
-Package pdftex.def Info: graphics/RGB_Cube_Show_lowgamma_cutout_b.png  used on 
-input line 342.
-(pdftex.def)             Requested size: 128.0374pt x 96.01276pt.
-File: graphics/polloPallido.pdf Graphic file (type pdf)
-<use graphics/polloPallido.pdf>
-Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 342.
-(pdftex.def)             Requested size: 24.18501pt x 36.16829pt.
-
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 342--342
-[][]  
- []
-
-[13
-
- </home/lg_more/github/RectoradoUNA/presentacion/graphics/RGB_Cube_Show_lowgamm
-a_cutout_b.png>]
-<graphics/RGBCube.png, id=219, 493.845pt x 324.21124pt>
-File: graphics/RGBCube.png Graphic file (type png)
-<use graphics/RGBCube.png>
-Package pdftex.def Info: graphics/RGBCube.png  used on input line 374.
-(pdftex.def)             Requested size: 138.2795pt x 90.77852pt.
-File: graphics/polloPallido.pdf Graphic file (type pdf)
-<use graphics/polloPallido.pdf>
-Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 374.
-(pdftex.def)             Requested size: 24.18501pt x 36.16829pt.
-
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 374--374
-[][]  
- []
-
-[14
-
- </home/lg_more/github/RectoradoUNA/presentacion/graphics/RGBCube.png>]
-File: graphics/polloPallido.pdf Graphic file (type pdf)
-<use graphics/polloPallido.pdf>
-Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 392.
-(pdftex.def)             Requested size: 24.18501pt x 36.16829pt.
-
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 392--392
-[][]  
- []
-
-[15
-
-]
-<graphics/IC676790.png, id=234, 469.755pt x 118.94438pt>
-File: graphics/IC676790.png Graphic file (type png)
-<use graphics/IC676790.png>
-Package pdftex.def Info: graphics/IC676790.png  used on input line 411.
-(pdftex.def)             Requested size: 312.9803pt x 79.24765pt.
-
-Overfull \hbox (5.69043pt too wide) in paragraph at lines 411--411
- [] 
- []
-
-<graphics/IC676791.png, id=235, 469.755pt x 118.94438pt>
-File: graphics/IC676791.png Graphic file (type png)
-<use graphics/IC676791.png>
-Package pdftex.def Info: graphics/IC676791.png  used on input line 411.
-(pdftex.def)             Requested size: 312.9803pt x 79.24765pt.
-
-Overfull \hbox (5.69043pt too wide) in paragraph at lines 411--411
- [] 
- []
-
-File: graphics/polloPallido.pdf Graphic file (type pdf)
-<use graphics/polloPallido.pdf>
-Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 411.
-(pdftex.def)             Requested size: 24.18501pt x 36.16829pt.
-
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 411--411
-[][]  
- []
-
-[16
-
- </home/lg_more/github/RectoradoUNA/presentacion/graphics/IC676790.png> </home/
-lg_more/github/RectoradoUNA/presentacion/graphics/IC676791.png>]
-File: graphics/polloPallido.pdf Graphic file (type pdf)
-<use graphics/polloPallido.pdf>
-Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 462.
-(pdftex.def)             Requested size: 24.18501pt x 36.16829pt.
-
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 462--462
-[][]  
- []
-
-[17
-
-]
-File: graphics/polloPallido.pdf Graphic file (type pdf)
-<use graphics/polloPallido.pdf>
-Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 493.
-(pdftex.def)             Requested size: 24.18501pt x 36.16829pt.
-
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 493--493
-[][]  
- []
-
-[18
-
-]
-File: graphics/polloPallido.pdf Graphic file (type pdf)
-<use graphics/polloPallido.pdf>
-Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 515.
-(pdftex.def)             Requested size: 24.18501pt x 36.16829pt.
-
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 515--515
-[][]  
- []
-
-[19
-
-]
-<graphics/peppers_gray_lc.jpg, id=263, 521.15831pt x 521.15831pt>
-File: graphics/peppers_gray_lc.jpg Graphic file (type jpg)
-<use graphics/peppers_gray_lc.jpg>
-Package pdftex.def Info: graphics/peppers_gray_lc.jpg  used on input line 576.
-(pdftex.def)             Requested size: 138.2795pt x 138.27328pt.
-<graphics/peppers_gray_hc.jpg, id=264, 513.92pt x 513.92pt>
-File: graphics/peppers_gray_hc.jpg Graphic file (type jpg)
-<use graphics/peppers_gray_hc.jpg>
-Package pdftex.def Info: graphics/peppers_gray_hc.jpg  used on input line 576.
-(pdftex.def)             Requested size: 138.2795pt x 138.28189pt.
-File: graphics/polloPallido.pdf Graphic file (type pdf)
-<use graphics/polloPallido.pdf>
-Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 576.
-(pdftex.def)             Requested size: 24.18501pt x 36.16829pt.
-
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 576--576
-[][]  
- []
-
-[20
-
- </home/lg_more/github/RectoradoUNA/presentacion/graphics/peppers_gray_lc.jpg> 
-</home/lg_more/github/RectoradoUNA/presentacion/graphics/peppers_gray_hc.jpg>]
-<graphics/peppers_gray_lc_hist.jpg, id=271, 1557.82pt x 867.24pt>
-File: graphics/peppers_gray_lc_hist.jpg Graphic file (type jpg)
-<use graphics/peppers_gray_lc_hist.jpg>
-Package pdftex.def Info: graphics/peppers_gray_lc_hist.jpg  used on input line 
-606.
-(pdftex.def)             Requested size: 153.64493pt x 85.52487pt.
-<graphics/peppers_gray_hc_hist.jpg, id=272, 1595.9625pt x 898.35625pt>
-File: graphics/peppers_gray_hc_hist.jpg Graphic file (type jpg)
-<use graphics/peppers_gray_hc_hist.jpg>
-Package pdftex.def Info: graphics/peppers_gray_hc_hist.jpg  used on input line 
-606.
-(pdftex.def)             Requested size: 153.64493pt x 86.48247pt.
-File: graphics/polloPallido.pdf Graphic file (type pdf)
-<use graphics/polloPallido.pdf>
-Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 606.
-(pdftex.def)             Requested size: 24.18501pt x 36.16829pt.
-
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 606--606
-[][]  
- []
-
-[21
-
- </home/lg_more/github/RectoradoUNA/presentacion/graphics/peppers_gray_lc_hist.
-jpg> </home/lg_more/github/RectoradoUNA/presentacion/graphics/peppers_gray_hc_h
-ist.jpg>]
-File: graphics/polloPallido.pdf Graphic file (type pdf)
-<use graphics/polloPallido.pdf>
-Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 630.
-(pdftex.def)             Requested size: 24.18501pt x 36.16829pt.
-
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 630--630
-[][]  
- []
-
-[22
-
-]
-File: graphics/polloPallido.pdf Graphic file (type pdf)
-<use graphics/polloPallido.pdf>
-Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 655.
-(pdftex.def)             Requested size: 24.18501pt x 36.16829pt.
-
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 655--655
-[][]  
- []
-
-[23
-
-]
-<graphics/peppers_color_lc.jpg, id=293, 521.15831pt x 521.15831pt>
-File: graphics/peppers_color_lc.jpg Graphic file (type jpg)
-<use graphics/peppers_color_lc.jpg>
-Package pdftex.def Info: graphics/peppers_color_lc.jpg  used on input line 684.
-
-(pdftex.def)             Requested size: 138.2795pt x 138.27328pt.
-<graphics/peppers_color_hc.jpg, id=294, 513.92pt x 513.92pt>
-File: graphics/peppers_color_hc.jpg Graphic file (type jpg)
-<use graphics/peppers_color_hc.jpg>
-Package pdftex.def Info: graphics/peppers_color_hc.jpg  used on input line 684.
-
-(pdftex.def)             Requested size: 138.2795pt x 138.28189pt.
-File: graphics/polloPallido.pdf Graphic file (type pdf)
-<use graphics/polloPallido.pdf>
-Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 684.
-(pdftex.def)             Requested size: 24.18501pt x 36.16829pt.
-
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 684--684
-[][]  
- []
-
-[24
-
- </home/lg_more/github/RectoradoUNA/presentacion/graphics/peppers_color_lc.jpg>
- </home/lg_more/github/RectoradoUNA/presentacion/graphics/peppers_color_hc.jpg>
-]
-File: graphics/polloPallido.pdf Graphic file (type pdf)
-<use graphics/polloPallido.pdf>
-Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 711.
-(pdftex.def)             Requested size: 24.18501pt x 36.16829pt.
-
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 711--711
-[][]  
- []
-
-[25
-
-]pdfTeX warning (ext4): destination with the same identifier (name{eq:velocidad
-1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.759 \end{frame}
-                 
-File: graphics/polloPallido.pdf Graphic file (type pdf)
-<use graphics/polloPallido.pdf>
-Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 759.
-(pdftex.def)             Requested size: 24.18501pt x 36.16829pt.
-
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 759--759
-[][]  
- []
-
-[26
-
-]
-<./graphics/ejemplopso/capas-0.png, id=318, 562.1pt x 421.575pt>
-File: ./graphics/ejemplopso/capas-0.png Graphic file (type png)
-<use ./graphics/ejemplopso/capas-0.png>
-Package pdftex.def Info: ./graphics/ejemplopso/capas-0.png  used on input line 
-859.
-(pdftex.def)             Requested size: 138.2795pt x 103.70811pt.
-<./graphics/ejemplopso/capas-8.png, id=319, 562.1pt x 421.575pt>
-File: ./graphics/ejemplopso/capas-8.png Graphic file (type png)
-<use ./graphics/ejemplopso/capas-8.png>
-Package pdftex.def Info: ./graphics/ejemplopso/capas-8.png  used on input line 
-859.
-(pdftex.def)             Requested size: 138.2795pt x 103.70811pt.
-File: graphics/polloPallido.pdf Graphic file (type pdf)
-<use graphics/polloPallido.pdf>
-Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 859.
-(pdftex.def)             Requested size: 24.18501pt x 36.16829pt.
-
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 859--859
-[][]  
- []
-
-[27
-
- <./graphics/ejemplopso/capas-0.png> <./graphics/ejemplopso/capas-8.png>]
-<./graphics/ejemplopso/capas-95.png, id=328, 562.1pt x 421.575pt>
-File: ./graphics/ejemplopso/capas-95.png Graphic file (type png)
-<use ./graphics/ejemplopso/capas-95.png>
-Package pdftex.def Info: ./graphics/ejemplopso/capas-95.png  used on input line
- 938.
-(pdftex.def)             Requested size: 138.2795pt x 103.70811pt.
-<./graphics/ejemplopso/capas-99.png, id=329, 562.1pt x 421.575pt>
-File: ./graphics/ejemplopso/capas-99.png Graphic file (type png)
-<use ./graphics/ejemplopso/capas-99.png>
-Package pdftex.def Info: ./graphics/ejemplopso/capas-99.png  used on input line
- 938.
-(pdftex.def)             Requested size: 138.2795pt x 103.70811pt.
-File: graphics/polloPallido.pdf Graphic file (type pdf)
-<use graphics/polloPallido.pdf>
-Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 938.
-(pdftex.def)             Requested size: 24.18501pt x 36.16829pt.
-
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 938--938
-[][]  
- []
-
-[28
-
- <./graphics/ejemplopso/capas-95.png> <./graphics/ejemplopso/capas-99.png>] (/h
-ome/lg_more/github/RectoradoUNA/presentacion/main.toc)
-File: graphics/polloPallido.pdf Graphic file (type pdf)
-<use graphics/polloPallido.pdf>
-Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 941.
-(pdftex.def)             Requested size: 24.18501pt x 36.16829pt.
-
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 941--941
-[][]  
- []
-
-[29
-
-]
-File: graphics/polloPallido.pdf Graphic file (type pdf)
-<use graphics/polloPallido.pdf>
-Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 969.
-(pdftex.def)             Requested size: 24.18501pt x 36.16829pt.
-
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 969--969
-[][]  
- []
-
-[30
-
-]
-File: graphics/polloPallido.pdf Graphic file (type pdf)
-<use graphics/polloPallido.pdf>
-Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 1009.
-(pdftex.def)             Requested size: 24.18501pt x 36.16829pt.
-
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 1009--1009
-[][]  
- []
-
-[31
-
-]
-File: graphics/polloPallido.pdf Graphic file (type pdf)
-<use graphics/polloPallido.pdf>
-Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 1044.
-(pdftex.def)             Requested size: 24.18501pt x 36.16829pt.
-
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 1044--1044
-[][]  
- []
-
-[32
-
-] (/home/lg_more/github/RectoradoUNA/presentacion/main.toc)
-File: graphics/polloPallido.pdf Graphic file (type pdf)
-<use graphics/polloPallido.pdf>
-Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 1089.
-(pdftex.def)             Requested size: 24.18501pt x 36.16829pt.
-
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 1089--1089
-[][]  
- []
-
-[33
-
-]
-LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 1143.
-LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 1143.
-File: graphics/polloPallido.pdf Graphic file (type pdf)
-<use graphics/polloPallido.pdf>
-Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 1143.
-(pdftex.def)             Requested size: 24.18501pt x 36.16829pt.
-
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 1143--1143
-[][]  
- []
-
-[34
-
-] (/home/lg_more/github/RectoradoUNA/presentacion/main.toc)
-File: graphics/polloPallido.pdf Graphic file (type pdf)
-<use graphics/polloPallido.pdf>
-Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 1182.
-(pdftex.def)             Requested size: 24.18501pt x 36.16829pt.
-
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 1182--1182
-[][]  
- []
-
-[35
-
-]
-File: graphics/polloPallido.pdf Graphic file (type pdf)
-<use graphics/polloPallido.pdf>
-Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 1222.
-(pdftex.def)             Requested size: 24.18501pt x 36.16829pt.
-
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 1222--1222
-[][]  
- []
-
-[36
-
-]
-<graphics/calhouse_0230.jpg, id=423, 246.9225pt x 163.61125pt>
-File: graphics/calhouse_0230.jpg Graphic file (type jpg)
-<use graphics/calhouse_0230.jpg>
-Package pdftex.def Info: graphics/calhouse_0230.jpg  used on input line 1258.
-(pdftex.def)             Requested size: 138.2795pt x 91.62416pt.
-<graphics/69-resultado.jpg, id=424, 246.9225pt x 163.61125pt>
-File: graphics/69-resultado.jpg Graphic file (type jpg)
-<use graphics/69-resultado.jpg>
-Package pdftex.def Info: graphics/69-resultado.jpg  used on input line 1258.
-(pdftex.def)             Requested size: 138.2795pt x 91.62416pt.
-File: graphics/polloPallido.pdf Graphic file (type pdf)
-<use graphics/polloPallido.pdf>
-Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 1258.
-(pdftex.def)             Requested size: 24.18501pt x 36.16829pt.
-
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 1258--1258
-[][]  
- []
-
-[37
-
- </home/lg_more/github/RectoradoUNA/presentacion/graphics/calhouse_0230.jpg> </
-home/lg_more/github/RectoradoUNA/presentacion/graphics/69-resultado.jpg>]
-<graphics/calhouse_0230_20-62968204656-00.jpg, id=439, 246.9225pt x 163.61125pt
->
-File: graphics/calhouse_0230_20-62968204656-00.jpg Graphic file (type jpg)
-<use graphics/calhouse_0230_20-62968204656-00.jpg>
-Package pdftex.def Info: graphics/calhouse_0230_20-62968204656-00.jpg  used on 
-input line 1295.
-(pdftex.def)             Requested size: 138.2795pt x 91.62416pt.
-<graphics/calhouse_0230_20-20-0020072469292179818.jpg, id=440, 246.9225pt x 163
-.61125pt>
-File: graphics/calhouse_0230_20-20-0020072469292179818.jpg Graphic file (type j
-pg)
-<use graphics/calhouse_0230_20-20-0020072469292179818.jpg>
-Package pdftex.def Info: graphics/calhouse_0230_20-20-0020072469292179818.jpg  
-used on input line 1295.
-(pdftex.def)             Requested size: 138.2795pt x 91.62416pt.
-pdfTeX warning (ext4): destination with the same identifier (name{fig:casa1}) h
-as been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1295     \end{frame}
-                      
-File: graphics/polloPallido.pdf Graphic file (type pdf)
-<use graphics/polloPallido.pdf>
-Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 1295.
-(pdftex.def)             Requested size: 24.18501pt x 36.16829pt.
-
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 1295--1295
-[][]  
- []
-
-[38
-
- </home/lg_more/github/RectoradoUNA/presentacion/graphics/calhouse_0230_20-6296
-8204656-00.jpg> </home/lg_more/github/RectoradoUNA/presentacion/graphics/calhou
-se_0230_20-20-0020072469292179818.jpg>]
-<graphics/calhouse_230_2.jpg, id=451, 1360.19748pt x 730.22812pt>
-File: graphics/calhouse_230_2.jpg Graphic file (type jpg)
-<use graphics/calhouse_230_2.jpg>
-Package pdftex.def Info: graphics/calhouse_230_2.jpg  used on input line 1309.
-(pdftex.def)             Requested size: 307.28987pt x 164.96277pt.
-File: graphics/polloPallido.pdf Graphic file (type pdf)
-<use graphics/polloPallido.pdf>
-Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 1309.
-(pdftex.def)             Requested size: 24.18501pt x 36.16829pt.
-
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 1309--1309
-[][]  
- []
-
-[39
-
- </home/lg_more/github/RectoradoUNA/presentacion/graphics/calhouse_230_2.jpg>]
-File: graphics/polloPallido.pdf Graphic file (type pdf)
-<use graphics/polloPallido.pdf>
-Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 1342.
-(pdftex.def)             Requested size: 24.18501pt x 36.16829pt.
-
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 1342--1342
-[][]  
- []
-
-[40
-
-]
-File: graphics/polloPallido.pdf Graphic file (type pdf)
-<use graphics/polloPallido.pdf>
-Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 1358.
-(pdftex.def)             Requested size: 24.18501pt x 36.16829pt.
-
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 1358--1358
-[][]  
- []
-
-[41
-
-] (/home/lg_more/github/RectoradoUNA/presentacion/main.toc)
-File: graphics/polloPallido.pdf Graphic file (type pdf)
-<use graphics/polloPallido.pdf>
-Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 1362.
-(pdftex.def)             Requested size: 24.18501pt x 36.16829pt.
-
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 1362--1362
-[][]  
- []
-
-[42
-
-]
-File: graphics/polloPallido.pdf Graphic file (type pdf)
-<use graphics/polloPallido.pdf>
-Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 1375.
-(pdftex.def)             Requested size: 24.18501pt x 36.16829pt.
-
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 1375--1375
-[][]  
- []
-
-[43
-
-] (/home/lg_more/github/RectoradoUNA/presentacion/main.toc)
-File: graphics/polloPallido.pdf Graphic file (type pdf)
-<use graphics/polloPallido.pdf>
-Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 1378.
-(pdftex.def)             Requested size: 24.18501pt x 36.16829pt.
-
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 1378--1378
-[][]  
- []
-
-[44
-
-]
-File: graphics/polloPallido.pdf Graphic file (type pdf)
-<use graphics/polloPallido.pdf>
-Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 1390.
-(pdftex.def)             Requested size: 24.18501pt x 36.16829pt.
-
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 1390--1390
-[][]  
- []
-
-[45
-
-]
-File: graphics/polloPallido.pdf Graphic file (type pdf)
-<use graphics/polloPallido.pdf>
-Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 1402.
-(pdftex.def)             Requested size: 24.18501pt x 36.16829pt.
-
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 1402--1402
-[][]  
- []
-
-[46
-
-]
-<graphics/Flyer-CCIS-2016v6.png, id=517, 298.83646pt x 109.48904pt>
-File: graphics/Flyer-CCIS-2016v6.png Graphic file (type png)
-<use graphics/Flyer-CCIS-2016v6.png>
-Package pdftex.def Info: graphics/Flyer-CCIS-2016v6.png  used on input line 142
-4.
-(pdftex.def)             Requested size: 138.2795pt x 50.66461pt.
-<graphics/LOGO-MICAI-2015-OK.jpg, id=518, 850.67813pt x 624.83438pt>
-File: graphics/LOGO-MICAI-2015-OK.jpg Graphic file (type jpg)
-<use graphics/LOGO-MICAI-2015-OK.jpg>
-Package pdftex.def Info: graphics/LOGO-MICAI-2015-OK.jpg  used on input line 14
-24.
-(pdftex.def)             Requested size: 138.2795pt x 101.56775pt.
-File: graphics/polloPallido.pdf Graphic file (type pdf)
-<use graphics/polloPallido.pdf>
-Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 1424.
-(pdftex.def)             Requested size: 24.18501pt x 36.16829pt.
-
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 1424--1424
-[][]  
- []
-
-[47
-
- </home/lg_more/github/RectoradoUNA/presentacion/graphics/Flyer-CCIS-2016v6.png
-> </home/lg_more/github/RectoradoUNA/presentacion/graphics/LOGO-MICAI-2015-OK.j
-pg>]
-<graphics/fin__lc.jpg, id=526, 963.6pt x 516.93124pt>
-File: graphics/fin__lc.jpg Graphic file (type jpg)
-<use graphics/fin__lc.jpg>
-Package pdftex.def Info: graphics/fin__lc.jpg  used on input line 1446.
-(pdftex.def)             Requested size: 179.76376pt x 96.43532pt.
-
-Overfull \hbox (41.48427pt too wide) in paragraph at lines 1446--1446
- [] 
- []
-
-<graphics/fin_lc.jpg, id=527, 963.6pt x 516.93124pt>
-File: graphics/fin_lc.jpg Graphic file (type jpg)
-<use graphics/fin_lc.jpg>
-Package pdftex.def Info: graphics/fin_lc.jpg  used on input line 1446.
-(pdftex.def)             Requested size: 179.76376pt x 96.43532pt.
-
-Overfull \hbox (41.48427pt too wide) in paragraph at lines 1446--1446
- [] 
- []
-
-File: graphics/polloPallido.pdf Graphic file (type pdf)
-<use graphics/polloPallido.pdf>
-Package pdftex.def Info: graphics/polloPallido.pdf  used on input line 1446.
-(pdftex.def)             Requested size: 24.18501pt x 36.16829pt.
-
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 1446--1446
-[][]  
- []
-
-[48
-
- </home/lg_more/github/RectoradoUNA/presentacion/graphics/fin__lc.jpg> </home/l
-g_more/github/RectoradoUNA/presentacion/graphics/fin_lc.jpg>]
 \tf@nav=\write10
 \openout10 = `main.nav'.
 
@@ -2711,50 +2040,35 @@ g_more/github/RectoradoUNA/presentacion/graphics/fin_lc.jpg>]
 \tf@snm=\write12
 \openout12 = `main.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1579.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1579.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1606.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1606.
 (/home/lg_more/github/RectoradoUNA/presentacion/main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1579.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1579.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1606.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1606.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: CA67D4320DB4313D64FB3443769D5A34;447.
-
-LaTeX Warning: There were multiply-defined labels.
-
+(rerunfilecheck)             Checksum: FE79EAA4F5A74194652B9948E4564FCD;261.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 46421 strings out of 492982
- 966604 string characters out of 6134897
- 1409762 words of memory out of 5000000
- 49009 multiletter control sequences out of 15000+600000
- 580301 words of font info for 120 fonts, out of 8000000 for 9000
+ 45835 strings out of 492982
+ 954573 string characters out of 6134897
+ 1403762 words of memory out of 5000000
+ 48576 multiletter control sequences out of 15000+600000
+ 560558 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 65i,22n,103p,10561b,867s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/
-fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.
-pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf/fonts/
-type1/public/lm/lmvtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/symbols/msbm10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/rs
-fs/rsfs10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/rsfs/rsfs7.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/urw/palatino/uplri8a.pfb></usr/share/texlive/texmf-dist/font
-s/type1/public/esvect/vect10.pfb>
-Output written on /home/lg_more/github/RectoradoUNA/presentacion/main.pdf (48 p
-ages, 2757225 bytes).
+ 65i,13n,103p,10561b,838s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texlive/texmf-dist
+/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmvtt10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
+Output written on /home/lg_more/github/RectoradoUNA/presentacion/main.pdf (11 p
+ages, 112635 bytes).
 PDF statistics:
- 619 PDF objects out of 1000 (max. 8388607)
- 483 compressed objects within 5 object streams
- 129 named destinations out of 1000 (max. 500000)
- 386 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 189 PDF objects out of 1000 (max. 8388607)
+ 137 compressed objects within 2 object streams
+ 27 named destinations out of 1000 (max. 500000)
+ 229 words of extra memory for PDF output out of 10000 (max. 10000000)
 

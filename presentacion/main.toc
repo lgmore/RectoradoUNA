@@ -4,14 +4,6 @@
 \defcounter {refsection}{0}\relax 
 \beamer@sectionintoc {2}{Actividades de Infraestructura}{6}{0}{2}
 \defcounter {refsection}{0}\relax 
-\beamer@sectionintoc {3}{Marco Te\IeC {\'o}rico}{11}{0}{3}
+\beamer@sectionintoc {3}{Resoluci\IeC {\'o}n de Incidentes}{8}{0}{3}
 \defcounter {refsection}{0}\relax 
-\beamer@sectionintoc {4}{Formulaci\IeC {\'o}n del Problema Planteado}{29}{0}{4}
-\defcounter {refsection}{0}\relax 
-\beamer@sectionintoc {5}{Propuesta}{33}{0}{5}
-\defcounter {refsection}{0}\relax 
-\beamer@sectionintoc {6}{Resultados y discusi\IeC {\'o}n}{35}{0}{6}
-\defcounter {refsection}{0}\relax 
-\beamer@sectionintoc {7}{Conclusiones}{42}{0}{7}
-\defcounter {refsection}{0}\relax 
-\beamer@sectionintoc {8}{Trabajos Futuros}{44}{0}{8}
+\beamer@sectionintoc {4}{Revisi\IeC {\'o}n de contratos relacionados a TI}{10}{0}{4}
